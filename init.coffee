@@ -21,4 +21,5 @@ exports.configure = [
 ]
 
 exports.after = (sprout, done) ->
-  # after hook
+  console.log 'done!'
+  done()

@@ -1,0 +1,10 @@
+{
+  "name": "<%= name %>",
+  "description": "<%= description %>",
+  "version": "1.0.0",
+  "dependencies": {
+    "clean-css": "^2.2.5",
+    "coffee-script": "^1.7.1",
+    "uglify-js": "^2.4.14"
+  }
+}
