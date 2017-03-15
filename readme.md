@@ -1,5 +1,7 @@
 # sprout-chrome-extension
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/hhsnopek/sprout-chrome-extension.svg)](https://greenkeeper.io/)
+
 Basic template for chrome extensions
 
 ### Installation
